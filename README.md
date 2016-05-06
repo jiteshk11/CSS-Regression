@@ -2,7 +2,7 @@
 
 - Install node modules
 
-  npm install 
+  npm install backstopjs
 
 cd node_modules/backstopjs/
 
