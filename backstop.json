@@ -1,36 +1,35 @@
 {
   "viewports": [
     {
-      "name": "tablet_h",
-      "width": 1024,
+      "name": "desktop_h",
+      "width": 1280,
       "height": 768
     },
     {
-      "name": "tablet_h",
-      "width": 1024,
-      "height": 768
+      "name": "tablet_v",
+      "width": 768,
+      "height": 1024
     },
     {
-      "name": "tablet_h",
-      "width": 1024,
-      "height": 768
+      "name": "mobile_v",
+      "width":  375,
+      "height": 667
     }
   ],
  "scenarios": [
     {
       "label": "My Homepage",
-      "url": "http://qa.sr.quickbooks.intuit.com/showroom_cms/content/modular_site_pages/test?preview=true",
+      "url": "http://qa.sr.quickbooks.intuit.com.au/showroom_cms/content/shared/responsive/au_resp_homepage1/?preview=true",
       "hideSelectors": [],
       "removeSelectors": [
         "#carbonads-container"
       ],
       "selectors": [
-        "#onPageNavResp",
-        "[class='title is-two-lines']",
-        "[class='title is-two-lines'] h2",
-        "[class='table pointsToSection'] tbody tr td:nth-child(1)",
-        "",
-        ""
+        
+        ".cfeatures-bar-graph-percentage",
+        "#techspec",
+        "#accordion",
+        ".ccontainer #features header"
 
       ],
       "readyEvent": null,
