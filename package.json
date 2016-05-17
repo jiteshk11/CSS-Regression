@@ -7,5 +7,13 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "backstopjs": "^1.2.1",
+    "csvtojson": "^0.5.10",
+    "gulp": "^3.9.1"
+  },
+  "devDependencies": {
+    "require-dir": "^0.3.0"
+  }
 }

@@ -17,27 +17,7 @@
     }
   ],
  "scenarios": [
-    {
-      "label": "My Homepage",
-      "url": "http://qa.sr.quickbooks.intuit.com.au/showroom_cms/content/shared/responsive/au_resp_homepage1/?preview=true",
-      "hideSelectors": [],
-      "removeSelectors": [
-        "#carbonads-container"
-      ],
-      "selectors": [
-        
-        ".cfeatures-bar-graph-percentage",
-        "#techspec",
-        "#accordion",
-        ".ccontainer #features header"
-
-      ],
-      "readyEvent": null,
-      "delay": 500,
-      "misMatchThreshold" : 0.1,
-      "onBeforeScript": "onBefore.js",
-      "onReadyScript": "onReady.js"
-    }
+  
   ],
   "paths": {
     "bitmaps_reference": "../../backstop_data/bitmaps_reference",

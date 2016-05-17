@@ -3,101 +3,149 @@
     "testPairs": [
       {
         "reference": "../../backstop_data/bitmaps_reference/0_0_cfeatures-bar-graph-percentage_0_desktop_h.png",
-        "test": "../../backstop_data/bitmaps_test/20160509-151649/0_0_cfeatures-bar-graph-percentage_0_desktop_h.png",
+        "test": "../../backstop_data/bitmaps_test/20160517-094714/0_0_cfeatures-bar-graph-percentage_0_desktop_h.png",
         "selector": ".cfeatures-bar-graph-percentage",
         "fileName": "0_0_cfeatures-bar-graph-percentage_0_desktop_h.png",
-        "label": "My Homepage",
-        "misMatchThreshold": 0.1
+        "label": "homePage",
+        "misMatchThreshold": "0.1"
       },
       {
-        "reference": "../../backstop_data/bitmaps_reference/0_1_techspec_0_desktop_h.png",
-        "test": "../../backstop_data/bitmaps_test/20160509-151649/0_1_techspec_0_desktop_h.png",
-        "selector": "#techspec",
-        "fileName": "0_1_techspec_0_desktop_h.png",
-        "label": "My Homepage",
-        "misMatchThreshold": 0.1
-      },
-      {
-        "reference": "../../backstop_data/bitmaps_reference/0_2_accordion_0_desktop_h.png",
-        "test": "../../backstop_data/bitmaps_test/20160509-151649/0_2_accordion_0_desktop_h.png",
+        "reference": "../../backstop_data/bitmaps_reference/0_1_accordion_0_desktop_h.png",
+        "test": "../../backstop_data/bitmaps_test/20160517-094714/0_1_accordion_0_desktop_h.png",
         "selector": "#accordion",
-        "fileName": "0_2_accordion_0_desktop_h.png",
-        "label": "My Homepage",
-        "misMatchThreshold": 0.1
+        "fileName": "0_1_accordion_0_desktop_h.png",
+        "label": "homePage",
+        "misMatchThreshold": "0.1"
       },
       {
-        "reference": "../../backstop_data/bitmaps_reference/0_3_ccontainerfeaturesheader_0_desktop_h.png",
-        "test": "../../backstop_data/bitmaps_test/20160509-151649/0_3_ccontainerfeaturesheader_0_desktop_h.png",
+        "reference": "../../backstop_data/bitmaps_reference/0_2_ccontainerfeaturesheader_0_desktop_h.png",
+        "test": "../../backstop_data/bitmaps_test/20160517-094714/0_2_ccontainerfeaturesheader_0_desktop_h.png",
         "selector": ".ccontainer #features header",
-        "fileName": "0_3_ccontainerfeaturesheader_0_desktop_h.png",
-        "label": "My Homepage",
-        "misMatchThreshold": 0.1
+        "fileName": "0_2_ccontainerfeaturesheader_0_desktop_h.png",
+        "label": "homePage",
+        "misMatchThreshold": "0.1"
       },
       {
         "reference": "../../backstop_data/bitmaps_reference/0_0_cfeatures-bar-graph-percentage_1_tablet_v.png",
-        "test": "../../backstop_data/bitmaps_test/20160509-151649/0_0_cfeatures-bar-graph-percentage_1_tablet_v.png",
+        "test": "../../backstop_data/bitmaps_test/20160517-094714/0_0_cfeatures-bar-graph-percentage_1_tablet_v.png",
         "selector": ".cfeatures-bar-graph-percentage",
         "fileName": "0_0_cfeatures-bar-graph-percentage_1_tablet_v.png",
-        "label": "My Homepage",
-        "misMatchThreshold": 0.1
+        "label": "homePage",
+        "misMatchThreshold": "0.1"
       },
       {
-        "reference": "../../backstop_data/bitmaps_reference/0_1_techspec_1_tablet_v.png",
-        "test": "../../backstop_data/bitmaps_test/20160509-151649/0_1_techspec_1_tablet_v.png",
-        "selector": "#techspec",
-        "fileName": "0_1_techspec_1_tablet_v.png",
-        "label": "My Homepage",
-        "misMatchThreshold": 0.1
-      },
-      {
-        "reference": "../../backstop_data/bitmaps_reference/0_2_accordion_1_tablet_v.png",
-        "test": "../../backstop_data/bitmaps_test/20160509-151649/0_2_accordion_1_tablet_v.png",
+        "reference": "../../backstop_data/bitmaps_reference/0_1_accordion_1_tablet_v.png",
+        "test": "../../backstop_data/bitmaps_test/20160517-094714/0_1_accordion_1_tablet_v.png",
         "selector": "#accordion",
-        "fileName": "0_2_accordion_1_tablet_v.png",
-        "label": "My Homepage",
-        "misMatchThreshold": 0.1
+        "fileName": "0_1_accordion_1_tablet_v.png",
+        "label": "homePage",
+        "misMatchThreshold": "0.1"
       },
       {
-        "reference": "../../backstop_data/bitmaps_reference/0_3_ccontainerfeaturesheader_1_tablet_v.png",
-        "test": "../../backstop_data/bitmaps_test/20160509-151649/0_3_ccontainerfeaturesheader_1_tablet_v.png",
+        "reference": "../../backstop_data/bitmaps_reference/0_2_ccontainerfeaturesheader_1_tablet_v.png",
+        "test": "../../backstop_data/bitmaps_test/20160517-094714/0_2_ccontainerfeaturesheader_1_tablet_v.png",
         "selector": ".ccontainer #features header",
-        "fileName": "0_3_ccontainerfeaturesheader_1_tablet_v.png",
-        "label": "My Homepage",
-        "misMatchThreshold": 0.1
+        "fileName": "0_2_ccontainerfeaturesheader_1_tablet_v.png",
+        "label": "homePage",
+        "misMatchThreshold": "0.1"
       },
       {
         "reference": "../../backstop_data/bitmaps_reference/0_0_cfeatures-bar-graph-percentage_2_mobile_v.png",
-        "test": "../../backstop_data/bitmaps_test/20160509-151649/0_0_cfeatures-bar-graph-percentage_2_mobile_v.png",
+        "test": "../../backstop_data/bitmaps_test/20160517-094714/0_0_cfeatures-bar-graph-percentage_2_mobile_v.png",
         "selector": ".cfeatures-bar-graph-percentage",
         "fileName": "0_0_cfeatures-bar-graph-percentage_2_mobile_v.png",
-        "label": "My Homepage",
-        "misMatchThreshold": 0.1
+        "label": "homePage",
+        "misMatchThreshold": "0.1"
       },
       {
-        "reference": "../../backstop_data/bitmaps_reference/0_1_techspec_2_mobile_v.png",
-        "test": "../../backstop_data/bitmaps_test/20160509-151649/0_1_techspec_2_mobile_v.png",
-        "selector": "#techspec",
-        "fileName": "0_1_techspec_2_mobile_v.png",
-        "label": "My Homepage",
-        "misMatchThreshold": 0.1
-      },
-      {
-        "reference": "../../backstop_data/bitmaps_reference/0_2_accordion_2_mobile_v.png",
-        "test": "../../backstop_data/bitmaps_test/20160509-151649/0_2_accordion_2_mobile_v.png",
+        "reference": "../../backstop_data/bitmaps_reference/0_1_accordion_2_mobile_v.png",
+        "test": "../../backstop_data/bitmaps_test/20160517-094714/0_1_accordion_2_mobile_v.png",
         "selector": "#accordion",
-        "fileName": "0_2_accordion_2_mobile_v.png",
-        "label": "My Homepage",
-        "misMatchThreshold": 0.1
+        "fileName": "0_1_accordion_2_mobile_v.png",
+        "label": "homePage",
+        "misMatchThreshold": "0.1"
       },
       {
-        "reference": "../../backstop_data/bitmaps_reference/0_3_ccontainerfeaturesheader_2_mobile_v.png",
-        "test": "../../backstop_data/bitmaps_test/20160509-151649/0_3_ccontainerfeaturesheader_2_mobile_v.png",
+        "reference": "../../backstop_data/bitmaps_reference/0_2_ccontainerfeaturesheader_2_mobile_v.png",
+        "test": "../../backstop_data/bitmaps_test/20160517-094714/0_2_ccontainerfeaturesheader_2_mobile_v.png",
         "selector": ".ccontainer #features header",
-        "fileName": "0_3_ccontainerfeaturesheader_2_mobile_v.png",
-        "label": "My Homepage",
-        "misMatchThreshold": 0.1
+        "fileName": "0_2_ccontainerfeaturesheader_2_mobile_v.png",
+        "label": "homePage",
+        "misMatchThreshold": "0.1"
+      },
+      {
+        "reference": "../../backstop_data/bitmaps_reference/1_0_wload_0_desktop_h.png",
+        "test": "../../backstop_data/bitmaps_test/20160517-094714/1_0_wload_0_desktop_h.png",
+        "selector": ".wload",
+        "fileName": "1_0_wload_0_desktop_h.png",
+        "label": "features",
+        "misMatchThreshold": "0.1"
+      },
+      {
+        "reference": "../../backstop_data/bitmaps_reference/1_0_wload_1_tablet_v.png",
+        "test": "../../backstop_data/bitmaps_test/20160517-094714/1_0_wload_1_tablet_v.png",
+        "selector": ".wload",
+        "fileName": "1_0_wload_1_tablet_v.png",
+        "label": "features",
+        "misMatchThreshold": "0.1"
+      },
+      {
+        "reference": "../../backstop_data/bitmaps_reference/1_0_wload_2_mobile_v.png",
+        "test": "../../backstop_data/bitmaps_test/20160517-094714/1_0_wload_2_mobile_v.png",
+        "selector": ".wload",
+        "fileName": "1_0_wload_2_mobile_v.png",
+        "label": "features",
+        "misMatchThreshold": "0.1"
+      },
+      {
+        "reference": "../../backstop_data/bitmaps_reference/2_0_pc-acc-monthly-price_0_desktop_h.png",
+        "test": "../../backstop_data/bitmaps_test/20160517-094714/2_0_pc-acc-monthly-price_0_desktop_h.png",
+        "selector": "#pc-acc-monthly-price",
+        "fileName": "2_0_pc-acc-monthly-price_0_desktop_h.png",
+        "label": "payroll",
+        "misMatchThreshold": "0.1"
+      },
+      {
+        "reference": "../../backstop_data/bitmaps_reference/2_1_wload_0_desktop_h.png",
+        "test": "../../backstop_data/bitmaps_test/20160517-094714/2_1_wload_0_desktop_h.png",
+        "selector": ".wload",
+        "fileName": "2_1_wload_0_desktop_h.png",
+        "label": "payroll",
+        "misMatchThreshold": "0.1"
+      },
+      {
+        "reference": "../../backstop_data/bitmaps_reference/2_0_pc-acc-monthly-price_1_tablet_v.png",
+        "test": "../../backstop_data/bitmaps_test/20160517-094714/2_0_pc-acc-monthly-price_1_tablet_v.png",
+        "selector": "#pc-acc-monthly-price",
+        "fileName": "2_0_pc-acc-monthly-price_1_tablet_v.png",
+        "label": "payroll",
+        "misMatchThreshold": "0.1"
+      },
+      {
+        "reference": "../../backstop_data/bitmaps_reference/2_1_wload_1_tablet_v.png",
+        "test": "../../backstop_data/bitmaps_test/20160517-094714/2_1_wload_1_tablet_v.png",
+        "selector": ".wload",
+        "fileName": "2_1_wload_1_tablet_v.png",
+        "label": "payroll",
+        "misMatchThreshold": "0.1"
+      },
+      {
+        "reference": "../../backstop_data/bitmaps_reference/2_0_pc-acc-monthly-price_2_mobile_v.png",
+        "test": "../../backstop_data/bitmaps_test/20160517-094714/2_0_pc-acc-monthly-price_2_mobile_v.png",
+        "selector": "#pc-acc-monthly-price",
+        "fileName": "2_0_pc-acc-monthly-price_2_mobile_v.png",
+        "label": "payroll",
+        "misMatchThreshold": "0.1"
+      },
+      {
+        "reference": "../../backstop_data/bitmaps_reference/2_1_wload_2_mobile_v.png",
+        "test": "../../backstop_data/bitmaps_test/20160517-094714/2_1_wload_2_mobile_v.png",
+        "selector": ".wload",
+        "fileName": "2_1_wload_2_mobile_v.png",
+        "label": "payroll",
+        "misMatchThreshold": "0.1"
       }
     ]
   },
-  "lastConfigHash": "518687015fb53e5ee8ed4e7632826f6ff9d41c12"
+  "lastConfigHash": "cede67d44a69a8005eeb2cd0a93f0b588da1fa1c"
 }

@@ -1,0 +1,4 @@
+label,url,referenceUrl,hideSelectors,removeSelectors,selectors,readyEvent,delay,misMatchThreshold,onBeforeScript,onReadyScript
+homePage,http://quickbooks.intuit.com.au,,,,.cfeatures-bar-graph-percentage|#accordion|.ccontainer #features header,null,500,0.1,onBefore.js,onReady.js
+features,http://www.intuit.com.au/features/,,,,.wload,null,500,0.1,onBefore.js,onReady.js
+payroll,http://www.intuit.com.au/quickbooks-online/payroll-software/,,,,#pc-acc-monthly-price|.wload,null,500,0.1,onBefore.js,onReady.js
