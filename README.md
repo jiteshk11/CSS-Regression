@@ -1,7 +1,5 @@
 # CSS-Regression
 
-  npm install backstopjs
-
       cd node_modules/backstopjs/
 
 - command to get reference:
