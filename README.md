@@ -1,10 +1,8 @@
 # CSS-Regression
 
-- Install node modules
-
   npm install backstopjs
 
-cd node_modules/backstopjs/
+      cd node_modules/backstopjs/
 
 - command to get reference:
 
